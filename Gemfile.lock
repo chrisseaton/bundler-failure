@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    test (0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  test!
+
+BUNDLED WITH
+   2.1.4
